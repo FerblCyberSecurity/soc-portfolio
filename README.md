@@ -3,7 +3,7 @@
 Hands-on blue team projects built in a home lab: deploying a SIEM, writing and testing detections, investigating incidents and automating response.
 Every project is documented step by step, mapped to **MITRE ATT&CK**, and ends with lessons learned.
 
-**Author:** [Your Name] · BTL1 · CompTIA Security+ · [LinkedIn](https://www.linkedin.com/in/your-profile)
+**Author:** Fernando Berenguer · BTL1 · CompTIA Security+ · [LinkedIn](www.linkedin.com/in/ferblcybersecurity)
 
 ---
 
